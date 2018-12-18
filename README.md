@@ -1,3 +1,5 @@
 # demo
-code begin 
+code begin
+
+new add test.h
 
